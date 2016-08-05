@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1, 上海Knews24 1080P
+http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
+#EXTINF:-1, 五星体育HD
+http://183.207.255.190:80/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1, 法治天地HD
+http://183.207.255.190:80/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1, 七彩戏剧HD
+http://183.207.255.190:80/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1, 动漫秀场HD
+http://183.207.255.190:80/live/program/live/dmxc/1300000/mnf.m3u8
+#EXTINF:-1, 劲爆体育HD
+http://183.207.255.190:80/live/program/live/jbty/1300000/mnf.m3u8
+#EXTINF:-1, 金鹰卡通
+http://183.207.255.190:80/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1, 炫动卡通
+http://183.207.255.190:80/live/program/live/xdkt/1300000/mnf.m3u8
+#EXTINF:-1, 嘉佳卡通
+http://183.207.255.190:80/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1, 星尚
+http://183.207.255.190:80/live/program/live/shss/1300000/mnf.m3u8
+#EXTINF:-1, 上海纪实
+http://183.207.255.190:80/live/program/live/jspd/1300000/mnf.m3u8
+#EXTINF:-1, 上海新闻
+http://183.207.255.190:80/live/program/live/xwzh/1300000/mnf.m3u8
+#EXTINF:-1, 上海娱乐
+http://183.207.255.190:80/live/program/live/ylpd/1300000/mnf.m3u8
+#EXTINF:-1, 上海电视剧
+http://183.207.255.190:80/live/program/live/dsjpd/1300000/mnf.m3u8
+#EXTINF:-1, 上海ICS外语频道
+http://183.207.255.190:80/live/program/live/wypd/1300000/mnf.m3u8
+#EXTINF:-1, 上海艺术人文
+http://183.207.255.190:80/live/program/live/ysrw/1300000/mnf.m3u8
+#EXTINF:-1, 军事评现
+http://183.207.249.15/PLTV/3/224/3221225533/index.m3u8
+#EXTINF:-1, cctv5+
+http://183.207.249.15/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1, CCTV4-中文国际
+http://183.207.249.15/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1, CNTV直播1湖南卫视高清
+http://183.207.249.7/PLTV/3/224/3221225521/index.m3u8
+#EXTINF:-1, CNTV爱情喜剧
+http://183.207.249.7/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1, CNTV古装剧场
+http://183.207.249.7/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1, CNTV动作电影
+http://183.207.249.7/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1, CNTV军旅剧场
+http://183.207.249.7/PLTV/3/224/3221225531/index.m3u8
+#EXTINF:-1, CNTV军事评论
+http://183.207.249.7/PLTV/3/224/3221225533/index.m3u8
+#EXTINF:-1, CNTV明星大片
+http://183.207.249.7/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1, CNTV农业致富
+http://183.207.249.7/PLTV/3/224/3221225537/index.m3u8
+#EXTINF:-1, CNTV完美游戏
+http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1, 贵州卫视
+http://183.207.249.8/PLTV/3/224/3221225540/index.m3u8
+#EXTINF:-1, CNTV经典影院
+http://183.207.249.8/PLTV/3/224/3221225541/index.m3u8
+#EXTINF:-1, CCTV-8电视剧高清
+http://183.207.249.8/PLTV/3/224/3221225542/index.m3u8
+#EXTINF:-1, CNTV精品体育
+http://183.207.249.7/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1, 浙江卫视
+http://183.207.249.7/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1, CNTV健康有约
+http://183.207.249.7/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1, CCTV-7军事农业
+http://183.207.249.7/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1, CNTV海外剧场
+http://183.207.249.7/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1, CCTV-6电影高清
+http://183.207.249.7/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1, CNTV家庭剧场
+http://183.207.249.7/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1, CCTV-10科教
+http://183.207.249.7/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1, CCTV-11戏曲
+http://183.207.249.7/PLTV/3/224/3221225552/index.m3u8
+#EXTINF:-1, 广西卫视
+http://183.207.249.7/PLTV/3/224/3221225554/index.m3u8
+#EXTINF:-1, CNTV动画王国
+http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1, CCTV-12社会与法
+http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1, CNTV精品记录
+http://183.207.249.7/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1, 东方卫视
+http://183.207.249.7/PLTV/3/224/3221225558/index.m3u8
+#EXTINF:-1, CNTV金牌综艺
+http://183.207.249.7/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1, CCTV-13新闻
+http://183.207.249.7/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1, CNTV惊悚悬疑
+http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1, 天津卫视
+http://183.207.249.7/PLTV/3/224/3221225562/index.m3u8
+#EXTINF:-1, CCTV-14少儿
+http://183.207.249.7/PLTV/3/224/3221225564/index.m3u8
+#EXTINF:-1, 辽宁卫视
+http://183.207.249.7/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1, CNTV精品电影
+http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
